@@ -1,1 +1,1 @@
-aplikacja ułatwiająca stedentom organizację nauki przed kolokwium
+aplikacja ułatwiająca studentom organizację nauki przed kolokwium
